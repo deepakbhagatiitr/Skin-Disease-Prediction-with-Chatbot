@@ -1,0 +1,2 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+backend/prediction/models/Skin_Diseases_CNN.h5 filter=lfs diff=lfs merge=lfs -text
